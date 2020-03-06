@@ -1,2 +1,3 @@
 # gradient_descent_demo
 手推梯度下降算法
+学习自李宏毅老师的机器学习课程
